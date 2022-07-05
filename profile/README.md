@@ -1,7 +1,8 @@
-# Instituut voor de Nederlandse Taal Github
+## Welcome to software development at the Dutch Language Institute (INT)  🙌
 
-Welkom!
+We develop linguistic software for researchers at the INT and others.
 
-This readme is under construction.
+### Useful resources
 
-See https://ivdnt.org/ for more about us.
+- https://www.ivdnt.org/
+- https://hub.docker.com/u/instituutnederlandsetaal
